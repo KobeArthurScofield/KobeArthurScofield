@@ -12,4 +12,4 @@ Maybe interested in many thing. Explorer.
 
 ### 輸入法類 IMEs：
 
-- [rime-daagor-integration-core](https://github.com/KobeArthurScofield/rime-daagor-integration-core) 帶聲調拼音方案
+- [rime-daagor-integration](https://github.com/KobeArthurScofield/rime-daagor-integration) 帶聲調拼音方案
